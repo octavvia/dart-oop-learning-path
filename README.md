@@ -1,4 +1,8 @@
 ## ket:
+sesi ini merupakan lanjutan dari dart dasar
 
-merupakan lanjutan dari https://github.com/vviia/dart-learning-path
+https://github.com/vviia/dart-learning-path
+
+## conten dari sesi ini adalah :
+- 
 
